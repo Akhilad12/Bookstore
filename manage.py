@@ -3,6 +3,7 @@
 import os
 import sys
 
+#this is test line
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ecom_project.settings')
